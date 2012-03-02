@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\bin\x86\Debug\GMCFight.exe
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\bin\x86\Debug\GMCFight.pdb
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\obj\x86\Debug\GMCFight.exe
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\obj\x86\Debug\GMCFight.pdb
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\bin\x86\Debug\Content\sWall.xnb
+C:\Users\Owner\Desktop\C#\GMC Fight\GMCFight\GMCFight\bin\x86\Debug\Content\sPlayerZeddy.xnb

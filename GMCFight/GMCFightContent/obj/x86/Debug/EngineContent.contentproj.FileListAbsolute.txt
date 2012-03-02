@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\C#\Engine\Engine\EngineContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\GMC Fight\Engine\EngineContent\obj\x86\Debug\ResolveAssemblyReference.cache
